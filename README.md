@@ -1,9 +1,9 @@
 ﻿# H1D024010-PemrogramanMobile-Dart
 
-Nama : Muhammad Umar Faiz Alfa Rizqy
+Nama : Muhammad Umar Faiz Alfa Rizqy <br>
 NIM : H1D024010
 
-<h1> Pertemuan 1</h1>
+<h2> Pertemuan 1</h2>
 <table>
   <tr>
     <th> </th>
