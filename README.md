@@ -3,7 +3,7 @@
 Nama : Muhammad Umar Faiz Alfa Rizqy <br>
 NIM : H1D024010
 
-<h2> Pertemuan 1</h2>
+<h2> Pertemuan 2</h2>
 <table>
   <tr>
     <th> </th>
@@ -23,6 +23,22 @@ NIM : H1D024010
     </td>
     <td align="center">
       <img width="955" height="535" alt="Cuplikan layar 2026-11-03 200021" src="https://github.com/user-attachments/assets/740b9263-99bd-4c00-95be-a7248bd2e965" />
+    </td>
+  </tr>
+</table>
+
+<h2> Pertemuan 3</h2>
+<table>
+  <tr>
+    <th> </th>
+    <th> </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="188" height="407" alt="Cuplikan layar 2026-11-04 080324" src="https://github.com/user-attachments/assets/b274fd52-1d81-4bea-bb43-0ee50f568c82" />
+    </td>
+    <td align="center">
+      <img width="959" height="539" alt="Cuplikan layar 2026-11-04 205001" src="https://github.com/user-attachments/assets/842b0917-2246-4ed4-9541-fa8274b5a814" />
     </td>
   </tr>
 </table>
