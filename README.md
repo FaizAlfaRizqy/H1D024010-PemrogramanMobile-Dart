@@ -42,3 +42,39 @@ NIM : H1D024010
     </td>
   </tr>
 </table>
+
+<h2> Pertemuan 4</h2>
+<table>
+  <tr>
+    <th> </th>
+    <th> </th>
+    <th> </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="374" height="520" alt="Cuplikan layar 2026-11-15 213928" src="https://github.com/user-attachments/assets/627fa38e-9397-4db1-a612-c119d97d018a" />
+    </td>
+    <td align="center">
+     <img width="356" height="518" alt="Cuplikan layar 2026-11-15 215315" src="https://github.com/user-attachments/assets/9804edb8-67bc-4516-81a9-d924679ee17b" />
+    </td>
+    <td align="center">
+     <img width="377" height="520" alt="Cuplikan layar 2026-11-15 220738" src="https://github.com/user-attachments/assets/8f9f980f-775b-4132-aca8-bd5282e9b443" />
+    </td>
+  </tr>
+    <tr>
+    <th> </th>
+    <th> </th>
+    <th> </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="376" height="517" alt="Cuplikan layar 2026-11-15 220750" src="https://github.com/user-attachments/assets/ace489aa-17e3-436f-a97e-3501af91c722" />
+    </td>
+    <td align="center">
+      <img width="380" height="520" alt="Cuplikan layar 2026-11-15 221016" src="https://github.com/user-attachments/assets/8295c172-8fc0-489e-8e2d-163220536c85" />
+    </td>
+    <td align="center">
+     <img width="377" height="520" alt="Cuplikan layar 2026-11-15 220835" src="https://github.com/user-attachments/assets/9a20205b-8ee1-40c9-a99c-2fae550d876d" />
+    </td>
+  </tr>
+</table>
